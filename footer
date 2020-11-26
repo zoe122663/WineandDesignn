@@ -1,0 +1,48 @@
+<html>
+    <body style="background-color:lightsteelblue;">
+    </body>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, 
+        initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Document</title>
+    </head>
+    <body>
+        <div class="footer-container">
+            <div class="footer-heading-footer-1">
+                <h2>About us</h2>
+                <a href="#">Feedback</a>
+                <a href="#">Reviews</a>
+                <a href="#">Staff</a>
+                <a href="#">Support</a>
+                <a href="#">Terms of Service</a>
+            </div>
+            <div class="footer-heading-footer-2">
+                <h2>Contact</h2>
+                <a href="#">Applications</a>
+                <a href="#">Openings</a>
+                <a href="#">Contact</a>
+                <a href="#">Support</a>
+                <a href="#">Sponserships</a>
+            </div>
+            <div class="footer-heading-footer-3">
+                <h2>Social Media</h2>
+                <a href="#">Instagram</a>
+                <a href="#">Youtube</a>
+                <a href="#">Facebook</a>
+                <a href="#">Twitter</a>
+            </div>
+            <div class="footer-email-form">
+                <h2>Join our newsletter</h2>
+                <input type="email" placeholder="Enter 
+                your email adress" id="footer-email">
+                <input type="submit" value="Sign-up"
+                id="footer-email-btn">
+            </div>
+        </div>
+    </body>
+    </html>
+</html>
