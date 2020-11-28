@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title> Wine and Design </title>
+<script> 
+ 
+</script>
+<style>
+body {
+    margin: 0;
+    font-family; 
+}
+
+.topnav { 
+    overflow: hidden; 
+    background-color: #000;
+}
+
+.topnav { 
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active{
+    background-color: #D0417E;
+    color:white;
+}
+
+ul {
+    margin: 0; 
+    padding: 0; 
+    overflow: hidden;
+    position: sticky;
+    top: 0; 
+}
+
+li{
+    float: left;
+}
+
+li a {
+    display: block; 
+    padding: 10px 16px; 
+}
+</style>
+
+< link rel="stylesheet" type="text/css" href="style.css"> 
+
+</head>
+<body> 
+
+<div class= "header">
+    <h2> Wine and Design>
+    <p> location and stuff </p>
+</div>
+
+<div class= "topnav">
+<ul>
+    <li><a class="active" href="#first thing> first thing </a></li>
+    <li><a href="#secondthing"> second thing </a></li>
+    <li><a href="#third"> third </a></li>
+    <li><a href="#fourth> fourth </a></li>
+</ul>
+</div>
+
+<h3> stuff </h3>
+<p> stuff stuff stuff </p>
+
+</body>
+
+</html> 
