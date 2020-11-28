@@ -1,0 +1,39 @@
+style.css 
+<style>
+body {
+    margin: 0;
+    font-family; 
+}
+
+.topnav { 
+    overflow: hidden; 
+    background-color: #000;
+}
+
+.topnav { 
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active{
+    background-color: #D0417E;
+    color:white;
+}
+
+ul {
+    margin: 0; 
+    padding: 0; 
+    overflow: hidden;
+    position: sticky;
+    top: 0; 
+}
+
+li{
+    float: left;
+}
+
+li a {
+    display: block; 
+    padding: 10px 16px; 
+}
+</style>
