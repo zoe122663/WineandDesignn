@@ -1,0 +1,26 @@
+
+.flex-container {
+  flex-basis: auto;
+  display: flex; 
+  background color: #F7B6BD;
+  margin:20px;
+  padding:20px; 
+  justify-content: space-between;
+  position: sticky;
+  top: 0px;
+}
+
+.attendance {
+  padding: 15px;
+  background: #F7B6BD;
+}
+
+.present {
+  padding: 15px;
+  background: #F7B6BD;
+}
+.absent {
+  padding: 15px;
+  background: #F7B6BD;
+}
+
