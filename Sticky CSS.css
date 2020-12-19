@@ -1,0 +1,37 @@
+.container {
+  height: 750px;
+}
+
+.heading {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  position: sticky;
+  top: 0px;
+
+}
+
+.d1 {
+  padding: 20px;
+  background-color: orange;
+}
+
+.d2 {
+  padding: 20px;
+  background-color: violet;
+}
+
+.d3 {
+  padding: 20px;
+  background-color: lightblue;
+}
+
+.d4 {
+  padding: 20px;
+  background-color: teal;
+}
+
+.d5 {
+  padding: 20px;
+  background-color: purple;
+}
