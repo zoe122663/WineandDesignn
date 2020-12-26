@@ -1,6 +1,16 @@
 <!DOCTYPE hmtl>
+<html>
+<head>
+<style id="stndz-style">div[class*="item-container-obpd"], a[data-redirect*="paid.outbrain.com"],
+a[onmousedown*="paid.outbrain.com"] 
+{ display: none !important; } a div[class*="item-container-ad"]
+{ height: 0px !important; overflow: hidden !important; position: absolute !important; }
+div[data-item-syndicated="true"] 
+{ display: none !important; } .grv_is_sponsored
+{ display: none !important; } .zergnet-widget-related
+{ display: none !important; } </style>
 <style>
-.h2{
+.h1{
     font-family: wineanddeignfont;
     text-align: center; 
 }
@@ -26,22 +36,22 @@
     outline: none;
     color: white;
     padding: 14px 16 px;
-    background-color: rbg(56, 57, 63)
+    background-color: rgb(56, 57, 63)
     font-family: wineanddeignfont;
 }
 .navbar a:hover,
 .dropdown:hover .dropbtn {
-    background-color: rbg(248, 247, 238);
+    background-color: rgb(248, 247, 238);
 }
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: rbg(177, 177, 177)
+    background-color: rgb(177, 177, 177)
 }
 .dropdown-content {
     display: none;
     positioin: absolute;
-    background-color: rbg(248, 247, 238)
+    background-color: rgb(248, 247, 238)
     min-width: 160 px;
     box-shadow: 0px 8px 16 px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
@@ -55,12 +65,13 @@
     text-align: left;
 }
 .dropdown-content a:hover {
-    background-color: rbg(177, 177, 177);
+    background-color: rgb(177, 177, 177);
 }
 .dropdown: hover .dropdown-content {
     display: block;
 }
 </style>
+</head>
 <body>
 <div class="navbar">
     <div class="dropdown">
@@ -103,7 +114,7 @@
         </div>
 
 <div id="VirtualParty">
-    <h2> Virtual Party </h2>
+    <h1> Virtual Party </h1>
     <h3> Find a Virtual Party Near You </h3>
     <img src="blank" width= "blank" height="blank">
     <p>
@@ -113,7 +124,8 @@
     sign up for one of our online parties. Get your art buzz on!
     </p> </div>
 <div id="PrivateEvents">
-    <h2>Private Events<</h2>
+    <h1>Private Events<</h1>
+    <h3> Turn Your Paint and Sip Party into a Celebration </h3>
     <img src="blank" width= "blank" height="blank">
     <p>
     Wine & Design offers a wide range of affordable private and public paint and sip parties for all ages, groups, and skill levels. 
@@ -122,7 +134,7 @@
     – we’ll bring the paint and the fun!
     </p></div>
 <div id="#ArtBuzzKids">
-    <h2> Art Buzz Kids </h2>
+    <h1> Art Buzz Kids </h1>
     <h3> Turn Your Peanut into a Picasso </h3>
     <img src="blank" width= "blank" height="blank">
     <p>
@@ -131,7 +143,7 @@
    We provide everything for your child’s painting party, and your child will always take home a masterpiece.
     </p></div>
 <div id="TeamBuilding">
-    <h2> Team Building</h2>
+    <h1> Team Building</h1>
     <h3> The Team That Sips Together, Stays Together </h3>
     <img src="blank" width= "blank" height="blank">
     <p>
@@ -140,7 +152,7 @@
     We provide an inspiring space for co-workers to collaborate and create a masterpiece in an energetic environment.
     </p></div>
 <div id="DIY">
-    <h2> DIY </h2>
+    <h1> DIY </h1>
     <h3> Paint Without Parameters </h3>
     <img src="blank" width= "blank" height="blank">
     <p>
@@ -150,7 +162,7 @@
     From home decor, to drinkware, to the perfect handmade gift, our classes cover the spectrum of creative possibilities.
     </p></div>
 <div id="On Wheels">
-    <h2> On Wheels </h2>
+    <h1> On Wheels </h1>
     <h3> We Bring the Party to You </h3>
     <img src="blank" width= "blank" height="blank">
     <p>
@@ -160,7 +172,7 @@
     We can even come to your home!
     </p></div>
 <div id="PaintItForward">
-    <h2> Paint It Forward</h2>
+    <h1> Paint It Forward</h1>
     <h3> Paint with a Purpose </h3>
     <img src="blank" width= "blank" height="blank">
     <p>
