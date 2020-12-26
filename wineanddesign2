@@ -10,11 +10,14 @@ div[data-item-syndicated="true"]
 { display: none !important; } .zergnet-widget-related
 { display: none !important; } </style>
 <style>
-.h1{
+  body {
+    text-align: center;
+  }
+h1{
     font-family: wineanddeignfont;
     text-align: center; 
 }
-.h3 {
+h3 {
     text-align: center;
     font-weight: bold;
     font-size: 18px;
@@ -22,7 +25,7 @@ div[data-item-syndicated="true"]
 .navbar a {
     float: left;
     font-size: 16px;
-    color:white;
+    color:black;
     text-align: center; padding: 14px 16 px;
     text-decoration: none;
 }
@@ -76,8 +79,8 @@ div[data-item-syndicated="true"]
 <div class="navbar">
     <div class="dropdown">
         <div class="dowpbtn">
-        "Classes"
-        <i class="fa fa-caret-down></i>
+        Classes
+        <i class="fa fa-caret-down"></i>
         </button>
     <div class="dropdown-content">
         <a href="#VirtualParty">Virtual Party</a>
@@ -86,7 +89,7 @@ div[data-item-syndicated="true"]
         <a href="#TeamBuilding">Team Building/a>
         <a href="#DIY">D.I.Y.</a>
         <a href="#OnWheels">On Wheels</a>
-        <a href="#PaintItForward>Paint It Forward</a>
+        <a href="#PaintItForward">Paint It Forward</a>
     </div>
     </div>
     </div>
@@ -94,25 +97,25 @@ div[data-item-syndicated="true"]
 <div class="navbar">
     <div class="dropdown">
         <div class="dowpbtn">
-        "Location"
+        Location
         </div>
         </div>
         </div>
 <div class= "navbar">
     <div class="dropdown">
         <div class= "dowpbtn">
-        "Contact Us"
+        Contact Us
          </div>
         </div>
         </div>
 <div class="navbar">
     <div class="dropdown">
         <div class="dowpbtn">
-        "Blog"
+        Blog
          </div>
         </div>
         </div>
-
+  <br></br>
 <div id="VirtualParty">
     <h1> Virtual Party </h1>
     <h3> Find a Virtual Party Near You </h3>
@@ -124,7 +127,7 @@ div[data-item-syndicated="true"]
     sign up for one of our online parties. Get your art buzz on!
     </p> </div>
 <div id="PrivateEvents">
-    <h1>Private Events<</h1>
+    <h1>Private Events</h1>
     <h3> Turn Your Paint and Sip Party into a Celebration </h3>
     <img src="blank" width= "blank" height="blank">
     <p>
