@@ -37,8 +37,8 @@ h3 {
     font-size: 16px;
     border: none;
     outline: none;
-    color: white;
-    padding: 14px 16 px;
+    color: black;
+    padding: 14px 16px;
     background-color: rgb(56, 57, 63)
     font-family: wineanddeignfont;
 }
@@ -70,15 +70,16 @@ h3 {
 .dropdown-content a:hover {
     background-color: rgb(177, 177, 177);
 }
-.dropdown: hover .dropdown-content {
+.dropdown:hover .dropdown-content {
     display: block;
 }
+.navbar1
 </style>
 </head>
 <body>
 <div class="navbar">
     <div class="dropdown">
-        <div class="dowpbtn">
+        <button class="dropbtn">
         Classes
         <i class="fa fa-caret-down"></i>
         </button>
@@ -96,23 +97,23 @@ h3 {
     </div>
 <div class="navbar">
     <div class="dropdown">
-        <div class="dowpbtn">
+        <button class="dropbtn">
         Location
-        </div>
+        </button>
         </div>
         </div>
 <div class= "navbar">
     <div class="dropdown">
-        <div class= "dowpbtn">
+        <button class= "dropbtn">
         Contact Us
          </div>
         </div>
         </div>
 <div class="navbar">
     <div class="dropdown">
-        <div class="dowpbtn">
+        <button class="dropbtn">
         Blog
-         </div>
+         </button>
         </div>
         </div>
   <br></br>
