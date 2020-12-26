@@ -1,0 +1,162 @@
+<!DOCTYPE hmtl>
+<style>
+.h2{
+    font-family: wineanddeignfont;
+    align: center; 
+}
+.h3 {
+    align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color:white;
+    text-align: center; padding: 14px 16 px;
+    text-decoration: none;
+}
+.dropdown{ 
+    float: left; 
+    overflow:hidden;
+}
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16 px;
+    background-color: rbg(56, 57, 63)
+    font-family: wineanddeignfont;
+}
+.navbar a:hover,
+.dropdown:hover .dropbtn {
+    background-color: rbg(248, 247, 238);
+}
+.dropdown-content {
+    display:none;
+    position: absolute;
+    background-color: rbg(177, 177, 177)
+}
+.dropdown-content {
+    display: none;
+    positioin: absolute;
+    background-color: rbg(248, 247, 238)
+    min-width:160 px;
+    box-shadow: 0px 8px 16 px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.dropdown-content a {
+    float:none;
+    color:black;
+    padding:12px 16 px;
+    text-decoration: none; 
+    display: block; 
+    text-align: left;
+}
+.dropdown-content a:hover {
+    background-color: rbg (177, 177, 177);
+}
+.dropdown: hover .dropdown-content {
+    display: block;
+}
+</style>
+<body>
+<div class= "navbar">
+    <div class="dropdown">
+        <div class= "dowpbtn">
+        "Classes"
+        <i class="fa fa-caret-down></i>
+        </button>
+    <div class="dropdown-content">
+        <a href="#VirtualParty">Virtual Party</a>
+        <a href="#PrivateEvents">Private Events</a>
+        <a href="#ArtBuzzKids">Art Buzz Kids</a>
+        <a href="#TeamBuilding">Team Building/a>
+        <a href="#DIY">D.I.Y.</a>
+        <a href="#OnWheels">On Wheels</a>
+        <a href="#PaintItForward>Paint It Forward</a>
+    </div>
+    </div>
+    </div>
+<div class= "navbar">
+    <div class="dropdown">
+        <div class= "dowpbtn">
+        "Location"
+<div class= "navbar">
+    <div class="dropdown">
+        <div class= "dowpbtn">
+        "Contact Us"
+<div class= "navbar">
+    <div class="dropdown">
+        <div class= "dowpbtn">
+        "Blog"
+
+<div id="VirtualParty">
+    <h2> Virtual Party </h2>
+    <h3> Find a Virtual Party Near You </h3>
+    <img src="blank" width= "blank" height="blank">
+    <p>
+    We are now offering virtual art classes! We stream our classes so you can enjoy it from the comfort of your own home!
+    Our team of artists will guide you through the process of creating your very own masterpiece while you sip on your favorite glass of wine (or two!). 
+    If you’re looking for a fun and unique way to expand your creative expression, 
+    sign up for one of our online parties. Get your art buzz on!
+    </p>
+<div id="PrivateEvents">
+    <h2>Private Events<</h2>
+    <img src="blank" width= "blank" height="blank">
+    <p>
+    Wine & Design offers a wide range of affordable private and public paint and sip parties for all ages, groups, and skill levels. 
+    From birthday parties to couple’s nights, mobile events to private classes, Wine & Design will turn your next party into a memorable celebration. 
+    Just bring your friends or significant other and enjoy a glass of wine during one of our classes 
+    – we’ll bring the paint and the fun!
+    </p>
+<div id="#ArtBuzzKids">
+    <h2> Art Buzz Kids </h2>
+    <h3> Turn Your Peanut into a Picasso </h3>
+    <img src="blank" width= "blank" height="blank">
+    <p>
+   Art Buzz Kids events will spark your child’s creativity and imagination in a fun, interactive setting. 
+   Our passion is art and inspiring children to have fun, get creative, and feel proud of their work! 
+   We provide everything for your child’s painting party, and your child will always take home a masterpiece.
+    </p>
+<div id="TeamBuilding">
+    <h2> Team Building</h2>
+    <h3> The Team That Sips Together, Stays Together </h3>
+    <img src="blank" width= "blank" height="blank">
+    <p>
+    Nothing brings people together quite like a little wine and a little work—teamwork, that is! 
+    Wine & Design’s Team Building division combines working together and artistic creativity. 
+    We provide an inspiring space for co-workers to collaborate and create a masterpiece in an energetic environment.
+    </p>
+<div id="DIY">
+    <h2> DIY </h2>
+    <h3> Paint Without Parameters </h3>
+    <img src="blank" width= "blank" height="blank">
+    <p>
+    Remember what it was like when you were a kid and the world was your canvas? 
+    You would paint on walls, furniture, and anything in sight! 
+    Wine & Design’s newest D.I.Y. division allows you to experience that child-like creativity again by giving you the opportunity to explore your painting skills through any medium. 
+    From home decor, to drinkware, to the perfect handmade gift, our classes cover the spectrum of creative possibilities.
+    </p>
+<div id="On Wheels">
+    <h2> On Wheels </h2>
+    <h3> We Bring the Party to You </h3>
+    <img src="blank" width= "blank" height="blank">
+    <p>
+    The Wine & Design On Wheels program brings the art buzz to you! 
+    Instead of hosting a paint and sip party in one of our studios, 
+    we partner with local businesses to offer fun and creative painting parties at your favorite venues. 
+    We can even come to your home!
+    </p>
+<div id="PaintItForward">
+    <h2> Paint It Forward</h2>
+    <h3> Paint with a Purpose </h3>
+    <img src="blank" width= "blank" height="blank">
+    <p>
+   Wine & Design’s Paint it Forward program provides a great way to raise money and bring awareness to any cause. 
+   We work with you to deliver private or public painting parties and then donate a portion of those proceeds back to local or national organizations. 
+   The larger your event, the more we give back!
+    </p>
+</body>
+</html>
