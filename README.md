@@ -1,3 +1,2 @@
 # WineandDesignn
-i am clueless but i'll try regardless 
-:eyes: :star: :guatemala:
+We have a basic formatted page out
