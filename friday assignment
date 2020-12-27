@@ -1,6 +1,0 @@
-
-<div class="flex-container">
-  <p class="attendance">Attendance</p>
-  <p class="present">Present</p>
-  <p class="absent">Absent</p>
-</div>  
