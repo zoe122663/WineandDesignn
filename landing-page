@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<body style="background-color: rgb(248, 247, 238);">
+    <head>
+        <body>
+            <div class="Container">
+                <div class="intro">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, 
+        initial-scale=1.0">
+        <link rel="stylesheet" href="landingpage.cssk">
+        <h1 class="TITLE">WELCOME TO: WINE AND DESIGN</hi>
+        <p>Come enjoy a fun night out with friends & family! Bring your 
+        favorite bottle of wine and snacks and get ready to paint your 
+        night away! You'll be taught step-by-step from one of our local
+    artists and will leave with your own masterpiece! Great for girls' night
+out, private parties, corporate events, wedding/engagement showers, birthday
+celebrations, kid events & parties, & any other special occasion!</p> </div>
+</div>
+<div class="logo">
+
+</div>
+        </body>
+    </head>
+</body>
+</html>
